@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store
+
+# QGIS temporary files
+*.qgz~
+*.aux.xml
+
+# Editor folders
+.vscode/
