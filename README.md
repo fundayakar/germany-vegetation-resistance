@@ -1,4 +1,4 @@
-# Hydrological Control of Vegetation Resistance to Climate Variability in Germany
+# Hydrological Control of Vegetation Resistance to Climate Variability: Evidence from Germany (2017–2024)
 
 This repository contains the data and code used to analyze vegetation response to climate variability across Germany using MODIS NDVI and ERA5-Land climate data (2017–2024).
 
