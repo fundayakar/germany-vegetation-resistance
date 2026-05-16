@@ -1,4 +1,5 @@
-# Hydrological Control of Vegetation Resistance to Climate Variability in Germany
+# Soil Moisture Mediates the Coupling between Temperature and Vegetation Dynamics across Germany: An Ecohydrological Perspective on Land Cover-Specific Sensitivity
+
 
 This repository contains the data and code used to analyze vegetation response to climate variability across Germany using MODIS NDVI and ERA5-Land climate data (2017–2024).
 
