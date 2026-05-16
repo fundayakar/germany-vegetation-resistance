@@ -1,5 +1,7 @@
 # Soil Moisture Mediates the Coupling between Temperature and Vegetation Dynamics across Germany: An Ecohydrological Perspective on Land Cover-Specific Sensitivity
 
+(https://doi.org/10.5281/zenodo.20245481)
+
 
 This repository contains the data and code used to analyze vegetation response to climate variability across Germany using MODIS NDVI and ERA5-Land climate data (2017–2024).
 
